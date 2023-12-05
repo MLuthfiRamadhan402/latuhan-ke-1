@@ -37,7 +37,7 @@
 ?>
 
             <p>Dari Alas <b><?=$alas; ?></b> Dan Tinggi <b><?=$tinggi; ?></b> Maka Jumlanya Luas
-            Segitiga Adalah
+            Segitiga Adalah =
            <b> <?= $jumlah; ?></b></p>
 
             <?php } ?>
