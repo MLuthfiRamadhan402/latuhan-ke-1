@@ -1,1 +1,0 @@
-# latuhan-ke-1
